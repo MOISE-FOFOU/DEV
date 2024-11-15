@@ -1,0 +1,37 @@
+{
+  "link": "https://dev.app.klivar.com/auth/sign-in",
+  "username": "moise.fofou@facsciences-uy1.cm",
+  "pwd": "Subwaysurf0@#",
+  "informations_de_base": {
+    "siret": "12345678901234",
+    "nomSociete": "Entreprise Dupont SA",
+    "adresse": "123 Rue de l'Entreprise, 75000 Paris",
+    "pays": "France",
+    "code":"3333",
+    "telephone": "+33123456789",
+    "emailProfessionnel": "moise.fofou@facsciences-uy1.cm",
+    "siteWeb": "https://www.entreprisedupont.com"
+  },
+  "representants_legaux": {
+    "nom": "Jean Dupont",
+    "titrePosition": "Directeur Général",
+    "telephone": "+33612345678",
+    "email": "moise.fofou@facsciences-uy1.cm"
+  },
+  "finances": {
+    "capitalSocial": "1000000",
+    "chiffreAffaires": "500000",
+    "nombreEmployes": "50"
+  },
+  "securite": {
+    "emailCorrespondance": "moise.fofou@facsciences-uy1.cm",
+    "motDePasse": "Subwaysurf0@#",
+    "confirmationMotDePasse": "Subwaysurf0@#",
+    "questionSecurite": "Quel est le nom de jeune de votre mère",
+    "reponseSecurite": "Dupont"
+  },
+  "conditions": {
+    "accepteConditions": true,
+    "acceptePolitiqueConfidentialite": true
+  }
+}
